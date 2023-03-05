@@ -27,3 +27,9 @@
     npx tsc
 ##9 Execute files
     node build/nome do ficheiro
+##10 Git
+    git init
+    git status
+    git add . (all)
+    git commit
+    criar repositorio
